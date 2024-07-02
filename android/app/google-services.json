@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "308153404461",
+    "project_id": "flutter-food-v2",
+    "storage_bucket": "flutter-food-v2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:308153404461:android:22dedee5c60cf9c51b3ca4",
+        "android_client_info": {
+          "package_name": "com.example.pizza_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCM1inGK5blBEvJYwBNskzlfSsixrY5wcg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
